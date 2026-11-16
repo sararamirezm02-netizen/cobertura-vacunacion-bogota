@@ -38,3 +38,6 @@ Luego abre http://localhost:8000. En Windows, si `python` no funciona, usa `py`.
 ## Limitaciones
 
 Son datos de seguimiento por sector (ICBF, colegios, SDIS) y no la cobertura anual oficial del Programa Ampliado de Inmunizaciones, y el corte corresponde a 2025.
+
+## Origen del umbral del 95 % y de los cortes del semáforo:
+el umbral del 95 % no es una cifra definida por el grupo, sino una referencia que aparece en tres fuentes: el tablero de seguimiento de vacunación de SaluData, que clasifica la cobertura como satisfactoria cuando alcanza el 95 % o más, como insatisfactoria entre el 90 % y el 94 % y como crítica por debajo de ese rango; el Plan de Intensificación de la Vacunación 2026 del Ministerio de Salud y Protección Social, que fija como meta alcanzar coberturas iguales o superiores al 95 % con los biológicos del Programa Ampliado de Inmunizaciones; y las estimaciones de cobertura de la OMS y UNICEF (WUENIC), que señalan ese nivel como el necesario para prevenir brotes de enfermedades inmunoprevenibles. Por esa razón la aplicación usa el 95 % como meta nacional de comparación y adopta los mismos cortes del semáforo de la plataforma, de modo que el resultado que ve el usuario coincide con la clasificación oficial de la fuente de los datos.
