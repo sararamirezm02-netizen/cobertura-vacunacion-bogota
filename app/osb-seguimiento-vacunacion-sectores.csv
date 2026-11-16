@@ -1,0 +1,826 @@
+FECHA_REPORTE;NOMBRE_LOCALIDAD;BIOLOGICO_EDAD;INSTITUCION;DOSIS_APLICADA;DENOMINADOR;COBERTURA
+26/08/2025;05 - Usme;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;ICBF;17;24;708
+26/08/2025;13 - Teusaquillo;Triple viral (1 año de edad);ICBF;2;2;1000
+26/08/2025;05 - Usme;tercera dosis de pentavalente (6 a 11 meses);ICBF;705;743;949
+26/08/2025;06 - Tunjuelito;tercera dosis de pentavalente (6 a 11 meses);ICBF;165;182;907
+26/08/2025;19 - Ciudad Bolívar;tercera dosis de pentavalente (6 a 11 meses);ICBF;1184;1345;880
+26/08/2025;01 - Usaquén;tercera dosis de pentavalente (6 a 11 meses);ICBF;149;170;876
+26/08/2025;12 - Barrios Unidos;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);ICBF;55;119;462
+26/08/2025;04 - San Cristóbal;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);ICBF;223;365;611
+26/08/2025;04 - San Cristóbal;Sarampión - Rubéola (de 4  a 14 años de edad);ICBF;986;1813;544
+26/08/2025;08 - Kennedy;Sarampión - Rubéola (de 4  a 14 años de edad);ICBF;961;3359;286
+26/08/2025;09 - Fontibón;Sarampión - Rubéola (de 4  a 14 años de edad);ICBF;162;553;293
+26/08/2025;19 - Ciudad Bolívar;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);ICBF;9918;13622;728
+26/08/2025;05 - Usme;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);ICBF;4234;5779;733
+26/08/2025;11 - Suba;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);ICBF;5704;7775;734
+26/08/2025;14 - Los Mártires;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);ICBF;2336;3491;669
+26/08/2025;05 - Usme;Triple viral refuerzo (desde 18 meses a 4 años de edad);ICBF;3566;4188;851
+26/08/2025;11 - Suba;Triple viral refuerzo (desde 18 meses a 4 años de edad);ICBF;4862;6070;801
+26/08/2025;18 - Rafael Uribe Uribe;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Hombres;ICBF;8;27;296
+26/08/2025;19 - Ciudad Bolívar;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;ICBF;24;53;453
+26/08/2025;04 - San Cristóbal;Triple viral (1 año de edad);ICBF;713;787;906
+26/08/2025;02 - Chapinero;tercera dosis de pentavalente (6 a 11 meses);ICBF;0;1;0
+26/08/2025;18 - Rafael Uribe Uribe;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);ICBF;168;332;506
+26/08/2025;13 - Teusaquillo;Sarampión - Rubéola (de 4  a 14 años de edad);ICBF;17;32;531
+26/08/2025;14 - Los Mártires;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);ICBF;236;3554;66
+26/08/2025;05 - Usme;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);ICBF;206;5973;34
+26/08/2025;07 - Bosa;Triple viral refuerzo (desde 18 meses a 4 años de edad);ICBF;5250;6928;758
+26/08/2025;08 - Kennedy;Triple viral refuerzo (desde 18 meses a 4 años de edad);ICBF;6649;8443;788
+26/08/2025;07 - Bosa;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);ICBF;678;8555;79
+26/08/2025;06 - Tunjuelito;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);ICBF;301;2266;133
+26/08/2025;11 - Suba;Triple viral (1 año de edad);ICBF;1033;1173;881
+26/08/2025;02 - Chapinero;Triple viral (1 año de edad);ICBF;1;1;1000
+26/08/2025;07 - Bosa;tercera dosis de pentavalente (6 a 11 meses);ICBF;386;456;846
+26/08/2025;08 - Kennedy;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);ICBF;360;741;486
+26/08/2025;05 - Usme;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);ICBF;210;292;719
+26/08/2025;07 - Bosa;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);ICBF;6010;8374;718
+26/08/2025;13 - Teusaquillo;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);ICBF;63;210;300
+26/08/2025;04 - San Cristóbal;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);ICBF;327;5466;60
+26/08/2025;09 - Fontibón;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);ICBF;146;3028;48
+26/08/2025;12 - Barrios Unidos;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);ICBF;97;1840;53
+26/08/2025;18 - Rafael Uribe Uribe;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);ICBF;257;6040;43
+26/08/2025;14 - Los Mártires;Triple viral refuerzo (desde 18 meses a 4 años de edad);ICBF;1997;2521;792
+26/08/2025;14 - Los Mártires;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);ICBF;491;3554;138
+26/08/2025;07 - Bosa;Triple viral (1 año de edad);ICBF;1090;1265;862
+26/08/2025;14 - Los Mártires;Triple viral (1 año de edad);ICBF;636;750;848
+26/08/2025;03 - Santa Fe;Triple viral (1 año de edad);ICBF;271;321;844
+26/08/2025;11 - Suba;tercera dosis de pentavalente (6 a 11 meses);ICBF;456;523;872
+26/08/2025;12 - Barrios Unidos;tercera dosis de pentavalente (6 a 11 meses);ICBF;16;18;889
+26/08/2025;03 - Santa Fe;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);ICBF;80;152;526
+26/08/2025;11 - Suba;Sarampión - Rubéola (de 4  a 14 años de edad);ICBF;854;2057;415
+26/08/2025;04 - San Cristóbal;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);ICBF;4269;5502;776
+26/08/2025;01 - Usaquén;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);ICBF;2644;3416;774
+26/08/2025;16 - Puente Aranda;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);ICBF;143;337;424
+26/08/2025;12 - Barrios Unidos;Triple viral refuerzo (desde 18 meses a 4 años de edad);ICBF;1239;1545;802
+26/08/2025;10 - Engativá;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);ICBF;840;7823;107
+26/08/2025;18 - Rafael Uribe Uribe;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);ICBF;759;6040;126
+26/08/2025;09 - Fontibón;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);ICBF;368;3028;122
+26/08/2025;21 - Localidad Desconocida;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Hombres;ICBF;13;77;169
+26/08/2025;15 - Antonio Nariño;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Hombres;COLEGIOS PRIVADOS;756;2047;369
+26/08/2025;01 - Usaquén;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);COLEGIOS PRIVADOS;28109;38169;736
+26/08/2025;06 - Tunjuelito;Triple viral refuerzo (desde 18 meses a 4 años de edad);COLEGIOS PRIVADOS;368;430;856
+26/08/2025;18 - Rafael Uribe Uribe;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);COLEGIOS PRIVADOS;8314;15194;547
+26/08/2025;08 - Kennedy;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);COLEGIOS PRIVADOS;23316;44319;526
+26/08/2025;02 - Chapinero;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Hombres;COLEGIOS PRIVADOS;29;347;84
+26/08/2025;17 - La Candelaria;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Hombres;COLEGIOS PRIVADOS;28;160;175
+26/08/2025;19 - Ciudad Bolívar;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Hombres;COLEGIOS PRIVADOS;1620;4290;378
+26/08/2025;09 - Fontibón;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Mujeres;COLEGIOS PRIVADOS;203;769;264
+26/08/2025;07 - Bosa;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);COLEGIOS PRIVADOS;814;1104;737
+26/08/2025;14 - Los Mártires;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);COLEGIOS PRIVADOS;191;245;780
+26/08/2025;18 - Rafael Uribe Uribe;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);COLEGIOS PRIVADOS;535;648;826
+26/08/2025;13 - Teusaquillo;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);COLEGIOS PRIVADOS;8488;11393;745
+26/08/2025;08 - Kennedy;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);COLEGIOS PRIVADOS;37316;45873;813
+26/08/2025;14 - Los Mártires;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);COLEGIOS PRIVADOS;3349;5767;581
+26/08/2025;04 - San Cristóbal;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);COLEGIOS PRIVADOS;9510;13560;701
+26/08/2025;17 - La Candelaria;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Hombres;COLEGIOS PRIVADOS;433;1350;321
+26/08/2025;14 - Los Mártires;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Hombres;COLEGIOS PRIVADOS;656;2001;328
+26/08/2025;03 - Santa Fe;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);COLEGIOS PRIVADOS;84;103;816
+26/08/2025;18 - Rafael Uribe Uribe;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);COLEGIOS PRIVADOS;13312;15925;836
+26/08/2025;16 - Puente Aranda;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);COLEGIOS PRIVADOS;9259;16785;552
+26/08/2025;17 - La Candelaria;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);COLEGIOS PRIVADOS;2161;3681;587
+26/08/2025;11 - Suba;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);COLEGIOS PRIVADOS;58949;89571;658
+26/08/2025;05 - Usme;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);COLEGIOS PRIVADOS;4998;7238;691
+26/08/2025;07 - Bosa;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;ICBF;1;9;111
+26/08/2025;03 - Santa Fe;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;ICBF;6;10;600
+26/08/2025;07 - Bosa;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);ICBF;233;505;461
+26/08/2025;10 - Engativá;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);ICBF;273;551;495
+26/08/2025;07 - Bosa;Sarampión - Rubéola (de 4  a 14 años de edad);ICBF;619;2366;262
+26/08/2025;21 - Localidad Desconocida;Sarampión - Rubéola (de 4  a 14 años de edad);ICBF;85;179;475
+26/08/2025;10 - Engativá;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);ICBF;281;7823;36
+26/08/2025;03 - Santa Fe;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);ICBF;117;2141;55
+26/08/2025;16 - Puente Aranda;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);ICBF;207;337;614
+26/08/2025;02 - Chapinero;Sarampión - Rubéola (de 4  a 14 años de edad);ICBF;1;2;500
+26/08/2025;06 - Tunjuelito;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;ICBF;25;38;658
+26/08/2025;09 - Fontibón;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;ICBF;2;10;200
+26/08/2025;10 - Engativá;tercera dosis de pentavalente (6 a 11 meses);ICBF;559;641;872
+26/08/2025;18 - Rafael Uribe Uribe;tercera dosis de pentavalente (6 a 11 meses);ICBF;334;354;944
+26/08/2025;09 - Fontibón;tercera dosis de pentavalente (6 a 11 meses);ICBF;253;329;769
+26/08/2025;01 - Usaquén;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);ICBF;125;283;442
+26/08/2025;19 - Ciudad Bolívar;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);ICBF;533;818;652
+26/08/2025;18 - Rafael Uribe Uribe;Sarampión - Rubéola (de 4  a 14 años de edad);ICBF;720;1658;434
+26/08/2025;03 - Santa Fe;Sarampión - Rubéola (de 4  a 14 años de edad);ICBF;297;641;463
+26/08/2025;12 - Barrios Unidos;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);ICBF;1456;1893;769
+26/08/2025;09 - Fontibón;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);ICBF;1996;2892;690
+26/08/2025;02 - Chapinero;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);ICBF;7;28;250
+26/08/2025;06 - Tunjuelito;Triple viral refuerzo (desde 18 meses a 4 años de edad);ICBF;1360;1553;876
+26/08/2025;21 - Localidad Desconocida;Triple viral refuerzo (desde 18 meses a 4 años de edad);ICBF;3;10;300
+26/08/2025;19 - Ciudad Bolívar;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);ICBF;1716;13921;123
+26/08/2025;08 - Kennedy;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);ICBF;1078;10633;101
+26/08/2025;19 - Ciudad Bolívar;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Hombres;ICBF;7;34;206
+26/08/2025;01 - Usaquén;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Hombres;COLEGIOS PRIVADOS;3607;12155;297
+26/08/2025;10 - Engativá;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Hombres;COLEGIOS PRIVADOS;4191;12945;324
+26/08/2025;14 - Los Mártires;Triple viral refuerzo (desde 18 meses a 4 años de edad);COLEGIOS PRIVADOS;132;167;790
+26/08/2025;11 - Suba;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);COLEGIOS PRIVADOS;50663;89571;566
+26/08/2025;18 - Rafael Uribe Uribe;Sarampión - Rubéola (de 4  a 14 años de edad);COLEGIOS PRIVADOS;8543;11344;753
+26/08/2025;05 - Usme;Sarampión - Rubéola (de 4  a 14 años de edad);COLEGIOS PRIVADOS;4617;5925;779
+26/08/2025;19 - Ciudad Bolívar;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Hombres;COLEGIOS PRIVADOS;182;659;276
+26/08/2025;04 - San Cristóbal;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);COLEGIOS PRIVADOS;7462;13560;550
+26/08/2025;09 - Fontibón;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);COLEGIOS PRIVADOS;12807;19042;673
+26/08/2025;14 - Los Mártires;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);COLEGIOS PRIVADOS;4064;5767;705
+26/08/2025;13 - Teusaquillo;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Hombres;COLEGIOS PRIVADOS;876;3522;249
+26/08/2025;08 - Kennedy;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Mujeres;COLEGIOS PRIVADOS;504;1847;273
+26/08/2025;10 - Engativá;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;COLEGIOS PRIVADOS;7624;12036;633
+26/08/2025;17 - La Candelaria;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;COLEGIOS PRIVADOS;769;1187;648
+26/08/2025;13 - Teusaquillo;Triple viral refuerzo (desde 18 meses a 4 años de edad);COLEGIOS PRIVADOS;327;472;693
+26/08/2025;19 - Ciudad Bolívar;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);COLEGIOS PRIVADOS;7161;14203;504
+26/08/2025;06 - Tunjuelito;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);COLEGIOS PRIVADOS;7108;12490;569
+26/08/2025;10 - Engativá;Sarampión - Rubéola (de 4  a 14 años de edad);COLEGIOS PRIVADOS;20369;29772;684
+26/08/2025;11 - Suba;Sarampión - Rubéola (de 4  a 14 años de edad);COLEGIOS PRIVADOS;39217;67814;578
+26/08/2025;13 - Teusaquillo;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Hombres;COLEGIOS PRIVADOS;84;421;200
+26/08/2025;11 - Suba;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Hombres;COLEGIOS PRIVADOS;619;3819;162
+26/08/2025;01 - Usaquén;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;COLEGIOS PRIVADOS;6630;11983;553
+26/08/2025;11 - Suba;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);COLEGIOS PRIVADOS;2554;3549;720
+26/08/2025;06 - Tunjuelito;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);COLEGIOS PRIVADOS;466;534;873
+26/08/2025;10 - Engativá;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);COLEGIOS PRIVADOS;33154;40630;816
+26/08/2025;01 - Usaquén;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;ICBF;3;7;429
+26/08/2025;11 - Suba;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;ICBF;4;14;286
+26/08/2025;18 - Rafael Uribe Uribe;Triple viral (1 año de edad);ICBF;827;932;887
+26/08/2025;14 - Los Mártires;Sarampión - Rubéola (de 4  a 14 años de edad);ICBF;257;742;346
+26/08/2025;16 - Puente Aranda;Sarampión - Rubéola (de 4  a 14 años de edad);ICBF;15;35;429
+26/08/2025;13 - Teusaquillo;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);ICBF;35;93;376
+26/08/2025;05 - Usme;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);ICBF;645;5973;108
+26/08/2025;08 - Kennedy;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;COLEGIOS PRIVADOS;8466;13428;630
+26/08/2025;16 - Puente Aranda;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);COLEGIOS PRIVADOS;566;776;729
+26/08/2025;11 - Suba;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);COLEGIOS PRIVADOS;71639;94314;760
+26/08/2025;09 - Fontibón;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);COLEGIOS PRIVADOS;16002;19547;819
+26/08/2025;18 - Rafael Uribe Uribe;Triple viral refuerzo (desde 18 meses a 4 años de edad);COLEGIOS PRIVADOS;293;376;779
+26/08/2025;10 - Engativá;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);COLEGIOS PRIVADOS;22104;39133;565
+26/08/2025;02 - Chapinero;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Hombres;COLEGIOS PRIVADOS;710;3041;233
+26/08/2025;19 - Ciudad Bolívar;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);COLEGIOS PRIVADOS;12446;14548;856
+26/08/2025;07 - Bosa;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);COLEGIOS PRIVADOS;23720;28937;820
+26/08/2025;12 - Barrios Unidos;Triple viral refuerzo (desde 18 meses a 4 años de edad);COLEGIOS PRIVADOS;196;282;695
+26/08/2025;04 - San Cristóbal;Sarampión - Rubéola (de 4  a 14 años de edad);COLEGIOS PRIVADOS;8352;10660;783
+26/08/2025;07 - Bosa;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);COLEGIOS PRIVADOS;18628;27908;667
+26/08/2025;03 - Santa Fe;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Mujeres;COLEGIOS PRIVADOS;36;139;259
+26/08/2025;09 - Fontibón;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);COLEGIOS PRIVADOS;731;979;747
+26/08/2025;19 - Ciudad Bolívar;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);COLEGIOS PRIVADOS;615;722;852
+26/08/2025;04 - San Cristóbal;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);COLEGIOS PRIVADOS;12064;14105;855
+26/08/2025;03 - Santa Fe;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);COLEGIOS PRIVADOS;2224;3577;622
+26/08/2025;06 - Tunjuelito;Sarampión - Rubéola (de 4  a 14 años de edad);COLEGIOS PRIVADOS;7160;9349;766
+26/08/2025;12 - Barrios Unidos;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);COLEGIOS PRIVADOS;3511;5540;634
+26/08/2025;13 - Teusaquillo;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;ICBF;1;1;1000
+26/08/2025;06 - Tunjuelito;Triple viral (1 año de edad);ICBF;365;414;882
+26/08/2025;04 - San Cristóbal;tercera dosis de pentavalente (6 a 11 meses);ICBF;327;361;906
+26/08/2025;03 - Santa Fe;tercera dosis de pentavalente (6 a 11 meses);ICBF;108;123;878
+26/08/2025;13 - Teusaquillo;tercera dosis de pentavalente (6 a 11 meses);ICBF;0;1;0
+26/08/2025;11 - Suba;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);ICBF;231;429;538
+26/08/2025;09 - Fontibón;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);ICBF;39;99;394
+26/08/2025;06 - Tunjuelito;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);ICBF;1689;2431;695
+26/08/2025;21 - Localidad Desconocida;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);ICBF;191;622;307
+26/08/2025;21 - Localidad Desconocida;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);ICBF;304;622;489
+26/08/2025;01 - Usaquén;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Hombres;COLEGIOS PRIVADOS;202;1459;138
+26/08/2025;11 - Suba;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Hombres;COLEGIOS PRIVADOS;8183;29123;281
+26/08/2025;11 - Suba;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Mujeres;COLEGIOS PRIVADOS;826;3806;217
+26/08/2025;14 - Los Mártires;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Mujeres;COLEGIOS PRIVADOS;53;198;268
+26/08/2025;12 - Barrios Unidos;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);COLEGIOS PRIVADOS;2845;5540;514
+26/08/2025;09 - Fontibón;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);COLEGIOS PRIVADOS;10741;19042;564
+26/08/2025;09 - Fontibón;Sarampión - Rubéola (de 4  a 14 años de edad);COLEGIOS PRIVADOS;9898;14653;675
+26/08/2025;14 - Los Mártires;Sarampión - Rubéola (de 4  a 14 años de edad);COLEGIOS PRIVADOS;3192;4394;726
+26/08/2025;17 - La Candelaria;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Mujeres;COLEGIOS PRIVADOS;35;145;241
+26/08/2025;10 - Engativá;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Mujeres;COLEGIOS PRIVADOS;455;1598;285
+26/08/2025;12 - Barrios Unidos;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;COLEGIOS PRIVADOS;981;1712;573
+26/08/2025;18 - Rafael Uribe Uribe;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;COLEGIOS PRIVADOS;3282;4774;687
+26/08/2025;15 - Antonio Nariño;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;COLEGIOS PRIVADOS;1186;1784;665
+26/08/2025;17 - La Candelaria;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);COLEGIOS PRIVADOS;86;103;835
+26/08/2025;05 - Usme;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);COLEGIOS PRIVADOS;6483;7307;887
+26/08/2025;04 - San Cristóbal;Triple viral refuerzo (desde 18 meses a 4 años de edad);COLEGIOS PRIVADOS;371;432;859
+26/08/2025;13 - Teusaquillo;Sarampión - Rubéola (de 4  a 14 años de edad);COLEGIOS PRIVADOS;4635;7742;599
+26/08/2025;02 - Chapinero;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);COLEGIOS PRIVADOS;4766;8779;543
+26/08/2025;06 - Tunjuelito;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);COLEGIOS PRIVADOS;8624;12490;690
+26/08/2025;15 - Antonio Nariño;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);COLEGIOS PRIVADOS;3759;5662;664
+26/08/2025;10 - Engativá;Triple viral refuerzo (desde 18 meses a 4 años de edad);COLEGIOS OFICIALES;910;1260;722
+26/08/2025;15 - Antonio Nariño;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;COLEGIOS OFICIALES;1480;2393;618
+26/08/2025;19 - Ciudad Bolívar;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);COLEGIOS OFICIALES;68554;91944;746
+26/08/2025;07 - Bosa;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Mujeres;COLEGIOS PRIVADOS;376;1200;313
+26/08/2025;04 - San Cristóbal;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;COLEGIOS PRIVADOS;2822;4032;700
+26/08/2025;09 - Fontibón;Triple viral refuerzo (desde 18 meses a 4 años de edad);COLEGIOS PRIVADOS;533;735;725
+26/08/2025;02 - Chapinero;Sarampión - Rubéola (de 4  a 14 años de edad);COLEGIOS PRIVADOS;2749;6460;426
+26/08/2025;09 - Fontibón;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Hombres;COLEGIOS PRIVADOS;143;815;175
+26/08/2025;06 - Tunjuelito;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Hombres;COLEGIOS PRIVADOS;123;482;255
+26/08/2025;18 - Rafael Uribe Uribe;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Hombres;COLEGIOS PRIVADOS;1796;5120;351
+26/08/2025;12 - Barrios Unidos;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Mujeres;COLEGIOS PRIVADOS;48;180;267
+26/08/2025;11 - Suba;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;COLEGIOS PRIVADOS;15858;28945;548
+26/08/2025;14 - Los Mártires;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;COLEGIOS PRIVADOS;1219;1942;628
+26/08/2025;16 - Puente Aranda;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;COLEGIOS PRIVADOS;3161;5138;615
+26/08/2025;05 - Usme;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;COLEGIOS PRIVADOS;1508;2088;722
+26/08/2025;13 - Teusaquillo;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);COLEGIOS PRIVADOS;321;453;709
+26/08/2025;10 - Engativá;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);COLEGIOS PRIVADOS;1258;1684;747
+26/08/2025;02 - Chapinero;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);COLEGIOS PRIVADOS;269;429;627
+26/08/2025;16 - Puente Aranda;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);COLEGIOS PRIVADOS;14716;16960;868
+26/08/2025;01 - Usaquén;Sarampión - Rubéola (de 4  a 14 años de edad);COLEGIOS PRIVADOS;15195;27240;558
+26/08/2025;19 - Ciudad Bolívar;Sarampión - Rubéola (de 4  a 14 años de edad);COLEGIOS PRIVADOS;8770;11553;759
+26/08/2025;15 - Antonio Nariño;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Hombres;COLEGIOS PRIVADOS;52;238;218
+26/08/2025;03 - Santa Fe;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Hombres;COLEGIOS PRIVADOS;450;1252;359
+26/08/2025;13 - Teusaquillo;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Mujeres;COLEGIOS PRIVADOS;95;399;238
+26/08/2025;04 - San Cristóbal;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Mujeres;COLEGIOS PRIVADOS;231;606;381
+26/08/2025;03 - Santa Fe;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;COLEGIOS PRIVADOS;801;1221;656
+26/08/2025;01 - Usaquén;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);COLEGIOS PRIVADOS;1053;1473;715
+26/08/2025;05 - Usme;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);COLEGIOS PRIVADOS;318;354;898
+26/08/2025;15 - Antonio Nariño;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);COLEGIOS PRIVADOS;198;245;808
+26/08/2025;03 - Santa Fe;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);COLEGIOS PRIVADOS;2993;3785;791
+26/08/2025;17 - La Candelaria;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);COLEGIOS PRIVADOS;3243;3780;858
+26/08/2025;08 - Kennedy;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);COLEGIOS PRIVADOS;29740;44319;671
+26/08/2025;10 - Engativá;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Hombres;COLEGIOS PRIVADOS;368;1733;212
+26/08/2025;04 - San Cristóbal;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Hombres;COLEGIOS PRIVADOS;177;599;295
+26/08/2025;08 - Kennedy;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Hombres;COLEGIOS PRIVADOS;4148;14390;288
+26/08/2025;09 - Fontibón;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Hombres;COLEGIOS PRIVADOS;1817;5989;303
+26/08/2025;04 - San Cristóbal;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Hombres;COLEGIOS PRIVADOS;1443;4229;341
+26/08/2025;19 - Ciudad Bolívar;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Mujeres;COLEGIOS PRIVADOS;246;647;380
+26/08/2025;02 - Chapinero;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;COLEGIOS PRIVADOS;1117;2507;446
+26/08/2025;08 - Kennedy;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);COLEGIOS PRIVADOS;1357;1835;740
+26/08/2025;08 - Kennedy;Triple viral refuerzo (desde 18 meses a 4 años de edad);COLEGIOS PRIVADOS;911;1249;729
+26/08/2025;07 - Bosa;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);COLEGIOS PRIVADOS;14774;27908;529
+26/08/2025;12 - Barrios Unidos;Sarampión - Rubéola (de 4  a 14 años de edad);COLEGIOS PRIVADOS;2394;3973;603
+26/08/2025;10 - Engativá;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;ICBF;6;16;375
+26/08/2025;18 - Rafael Uribe Uribe;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;ICBF;4;13;308
+26/08/2025;21 - Localidad Desconocida;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;ICBF;0;3;0
+26/08/2025;01 - Usaquén;Triple viral (1 año de edad);ICBF;387;448;864
+26/08/2025;10 - Engativá;Sarampión - Rubéola (de 4  a 14 años de edad);ICBF;985;2200;448
+26/08/2025;01 - Usaquén;Sarampión - Rubéola (de 4  a 14 años de edad);ICBF;504;1125;448
+26/08/2025;03 - Santa Fe;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);ICBF;1562;2129;734
+26/08/2025;19 - Ciudad Bolívar;Triple viral refuerzo (desde 18 meses a 4 años de edad);ICBF;8303;10081;824
+26/08/2025;18 - Rafael Uribe Uribe;Triple viral refuerzo (desde 18 meses a 4 años de edad);ICBF;4008;4763;841
+26/08/2025;09 - Fontibón;Triple viral refuerzo (desde 18 meses a 4 años de edad);ICBF;1768;2149;823
+26/08/2025;02 - Chapinero;Triple viral refuerzo (desde 18 meses a 4 años de edad);ICBF;2;5;400
+26/08/2025;03 - Santa Fe;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);ICBF;257;2141;120
+26/08/2025;04 - San Cristóbal;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;ICBF;7;10;700
+26/08/2025;12 - Barrios Unidos;Triple viral (1 año de edad);ICBF;190;222;856
+26/08/2025;14 - Los Mártires;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);ICBF;57;122;467
+26/08/2025;21 - Localidad Desconocida;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);ICBF;0;5;0
+26/08/2025;06 - Tunjuelito;Sarampión - Rubéola (de 4  a 14 años de edad);ICBF;167;388;430
+26/08/2025;21 - Localidad Desconocida;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);ICBF;268;861;311
+26/08/2025;08 - Kennedy;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);ICBF;7767;10422;745
+26/08/2025;18 - Rafael Uribe Uribe;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);ICBF;4663;6044;772
+26/08/2025;07 - Bosa;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);ICBF;210;8555;25
+26/08/2025;01 - Usaquén;Triple viral refuerzo (desde 18 meses a 4 años de edad);ICBF;2303;2803;822
+26/08/2025;13 - Teusaquillo;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);ICBF;49;93;527
+26/08/2025;19 - Ciudad Bolívar;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);COLEGIOS OFICIALES;3711;4810;772
+26/08/2025;01 - Usaquén;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Mujeres;COLEGIOS OFICIALES;228;852;268
+26/08/2025;14 - Los Mártires;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);COLEGIOS OFICIALES;5297;8909;595
+26/08/2025;03 - Santa Fe;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Hombres;COLEGIOS PRIVADOS;20;135;148
+26/08/2025;19 - Ciudad Bolívar;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;COLEGIOS PRIVADOS;2833;4024;704
+26/08/2025;02 - Chapinero;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);COLEGIOS PRIVADOS;5943;9759;609
+26/08/2025;19 - Ciudad Bolívar;Triple viral refuerzo (desde 18 meses a 4 años de edad);COLEGIOS PRIVADOS;206;265;777
+26/08/2025;03 - Santa Fe;Sarampión - Rubéola (de 4  a 14 años de edad);COLEGIOS PRIVADOS;1731;2676;647
+26/08/2025;17 - La Candelaria;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);COLEGIOS PRIVADOS;2627;3681;714
+26/08/2025;19 - Ciudad Bolívar;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);COLEGIOS PRIVADOS;9365;14203;659
+26/08/2025;07 - Bosa;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Hombres;COLEGIOS PRIVADOS;246;1218;202
+26/08/2025;06 - Tunjuelito;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Hombres;COLEGIOS PRIVADOS;1400;4064;344
+26/08/2025;13 - Teusaquillo;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;COLEGIOS PRIVADOS;1977;3660;540
+26/08/2025;14 - Los Mártires;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);COLEGIOS PRIVADOS;5075;5851;867
+26/08/2025;05 - Usme;Triple viral refuerzo (desde 18 meses a 4 años de edad);COLEGIOS PRIVADOS;163;206;791
+26/08/2025;10 - Engativá;Triple viral refuerzo (desde 18 meses a 4 años de edad);COLEGIOS PRIVADOS;871;1149;758
+26/08/2025;15 - Antonio Nariño;Sarampión - Rubéola (de 4  a 14 años de edad);COLEGIOS PRIVADOS;2993;4075;734
+26/08/2025;17 - La Candelaria;Sarampión - Rubéola (de 4  a 14 años de edad);COLEGIOS PRIVADOS;2074;2804;740
+26/08/2025;10 - Engativá;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);COLEGIOS PRIVADOS;26563;39133;679
+26/08/2025;18 - Rafael Uribe Uribe;Triple viral refuerzo (desde 18 meses a 4 años de edad);COLEGIOS OFICIALES;1220;1603;761
+26/08/2025;16 - Puente Aranda;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Mujeres;COLEGIOS OFICIALES;194;690;281
+26/08/2025;19 - Ciudad Bolívar;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);COLEGIOS OFICIALES;50436;88575;569
+26/08/2025;07 - Bosa;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);COLEGIOS OFICIALES;53533;99432;538
+26/08/2025;13 - Teusaquillo;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Hombres;COLEGIOS OFICIALES;212;796;266
+26/08/2025;12 - Barrios Unidos;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Hombres;COLEGIOS PRIVADOS;28;208;135
+26/08/2025;01 - Usaquén;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Mujeres;COLEGIOS PRIVADOS;320;1438;223
+26/08/2025;05 - Usme;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Mujeres;COLEGIOS PRIVADOS;123;328;375
+26/08/2025;07 - Bosa;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;COLEGIOS PRIVADOS;5841;9135;639
+26/08/2025;09 - Fontibón;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;COLEGIOS PRIVADOS;3689;5806;635
+26/08/2025;06 - Tunjuelito;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;COLEGIOS PRIVADOS;2696;3987;676
+26/08/2025;02 - Chapinero;Triple viral refuerzo (desde 18 meses a 4 años de edad);COLEGIOS PRIVADOS;141;250;564
+26/08/2025;15 - Antonio Nariño;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);COLEGIOS PRIVADOS;3005;5662;531
+26/08/2025;08 - Kennedy;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Hombres;COLEGIOS PRIVADOS;388;2017;192
+26/08/2025;05 - Usme;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Hombres;COLEGIOS PRIVADOS;92;340;271
+26/08/2025;16 - Puente Aranda;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Hombres;COLEGIOS PRIVADOS;128;741;173
+26/08/2025;16 - Puente Aranda;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Mujeres;COLEGIOS PRIVADOS;195;707;276
+26/08/2025;18 - Rafael Uribe Uribe;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Mujeres;COLEGIOS PRIVADOS;196;551;356
+26/08/2025;12 - Barrios Unidos;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);COLEGIOS PRIVADOS;193;274;704
+26/08/2025;15 - Antonio Nariño;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);COLEGIOS PRIVADOS;4908;5972;822
+26/08/2025;06 - Tunjuelito;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);COLEGIOS PRIVADOS;10915;13342;818
+26/08/2025;16 - Puente Aranda;Triple viral refuerzo (desde 18 meses a 4 años de edad);COLEGIOS PRIVADOS;507;673;753
+26/08/2025;17 - La Candelaria;Triple viral refuerzo (desde 18 meses a 4 años de edad);COLEGIOS PRIVADOS;21;26;808
+26/08/2025;01 - Usaquén;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);COLEGIOS PRIVADOS;23708;36496;650
+26/08/2025;18 - Rafael Uribe Uribe;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);COLEGIOS PRIVADOS;10521;15194;692
+26/08/2025;10 - Engativá;Triple viral (1 año de edad);ICBF;1306;1485;879
+26/08/2025;05 - Usme;Triple viral (1 año de edad);ICBF;1240;1379;899
+26/08/2025;09 - Fontibón;Triple viral (1 año de edad);ICBF;538;645;834
+26/08/2025;19 - Ciudad Bolívar;Sarampión - Rubéola (de 4  a 14 años de edad);ICBF;1644;3617;455
+26/08/2025;16 - Puente Aranda;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);ICBF;238;579;411
+26/08/2025;01 - Usaquén;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);ICBF;157;3464;45
+26/08/2025;01 - Usaquén;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);ICBF;468;3464;135
+26/08/2025;13 - Teusaquillo;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Hombres;ICBF;7;22;318
+26/08/2025;02 - Chapinero;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);ICBF;1;9;111
+26/08/2025;18 - Rafael Uribe Uribe;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Mujeres;COLEGIOS OFICIALES;761;1815;419
+26/08/2025;04 - San Cristóbal;Sarampión - Rubéola (de 4  a 14 años de edad);COLEGIOS OFICIALES;21302;30899;689
+26/08/2025;15 - Antonio Nariño;Triple viral refuerzo (desde 18 meses a 4 años de edad);COLEGIOS OFICIALES;257;326;788
+26/08/2025;14 - Los Mártires;Sarampión - Rubéola (de 4  a 14 años de edad);COLEGIOS OFICIALES;3268;6215;526
+26/08/2025;08 - Kennedy;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);COLEGIOS OFICIALES;35959;93286;385
+26/08/2025;09 - Fontibón;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);COLEGIOS OFICIALES;15317;23870;642
+26/08/2025;02 - Chapinero;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Hombres;COLEGIOS OFICIALES;199;823;242
+26/08/2025;08 - Kennedy;Triple viral refuerzo (desde 18 meses a 4 años de edad);COLEGIOS OFICIALES;2039;2911;700
+26/08/2025;12 - Barrios Unidos;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);COLEGIOS OFICIALES;313;481;651
+26/08/2025;01 - Usaquén;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;COLEGIOS OFICIALES;3886;6897;563
+26/08/2025;19 - Ciudad Bolívar;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);COLEGIOS OFICIALES;34960;88575;395
+26/08/2025;02 - Chapinero;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);COLEGIOS OFICIALES;1632;2981;547
+26/08/2025;10 - Engativá;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Hombres;COLEGIOS OFICIALES;5486;17813;308
+26/08/2025;20 - Sumapaz;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Hombres;COLEGIOS OFICIALES;12;40;300
+26/08/2025;06 - Tunjuelito;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Hombres;COLEGIOS OFICIALES;325;1026;317
+26/08/2025;20 - Sumapaz;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);COLEGIOS OFICIALES;24;39;615
+26/08/2025;01 - Usaquén;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);COLEGIOS OFICIALES;14634;23235;630
+26/08/2025;15 - Antonio Nariño;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);COLEGIOS OFICIALES;5951;8110;734
+26/08/2025;20 - Sumapaz;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Hombres;COLEGIOS OFICIALES;105;222;473
+26/08/2025;14 - Los Mártires;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Hombres;COLEGIOS PRIVADOS;35;200;175
+26/08/2025;07 - Bosa;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Hombres;COLEGIOS PRIVADOS;2640;8858;298
+26/08/2025;12 - Barrios Unidos;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Hombres;COLEGIOS PRIVADOS;538;1976;272
+26/08/2025;15 - Antonio Nariño;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Mujeres;COLEGIOS PRIVADOS;64;186;344
+26/08/2025;04 - San Cristóbal;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);COLEGIOS PRIVADOS;575;683;842
+26/08/2025;03 - Santa Fe;Triple viral refuerzo (desde 18 meses a 4 años de edad);COLEGIOS PRIVADOS;15;20;750
+26/08/2025;01 - Usaquén;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);COLEGIOS PRIVADOS;20866;36496;572
+26/08/2025;07 - Bosa;Sarampión - Rubéola (de 4  a 14 años de edad);COLEGIOS PRIVADOS;14949;21391;699
+26/08/2025;13 - Teusaquillo;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);COLEGIOS PRIVADOS;6627;10906;608
+26/08/2025;03 - Santa Fe;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);COLEGIOS PRIVADOS;2575;3577;720
+26/08/2025;18 - Rafael Uribe Uribe;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);COLEGIOS OFICIALES;1735;2367;733
+26/08/2025;03 - Santa Fe;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);COLEGIOS OFICIALES;228;335;681
+26/08/2025;02 - Chapinero;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);COLEGIOS OFICIALES;1182;2816;420
+26/08/2025;18 - Rafael Uribe Uribe;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Hombres;COLEGIOS PRIVADOS;182;626;291
+26/08/2025;06 - Tunjuelito;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Mujeres;COLEGIOS PRIVADOS;147;457;322
+26/08/2025;11 - Suba;Triple viral refuerzo (desde 18 meses a 4 años de edad);COLEGIOS PRIVADOS;1399;2022;692
+26/08/2025;01 - Usaquén;Triple viral refuerzo (desde 18 meses a 4 años de edad);COLEGIOS PRIVADOS;542;832;651
+26/08/2025;07 - Bosa;Triple viral refuerzo (desde 18 meses a 4 años de edad);COLEGIOS PRIVADOS;319;459;695
+26/08/2025;15 - Antonio Nariño;Triple viral refuerzo (desde 18 meses a 4 años de edad);COLEGIOS PRIVADOS;182;227;802
+26/08/2025;13 - Teusaquillo;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);COLEGIOS PRIVADOS;5627;10906;516
+26/08/2025;17 - La Candelaria;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Hombres;INTEGRACIÓN;1;6;167
+26/08/2025;09 - Fontibón;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Hombres;INTEGRACIÓN;0;3;0
+26/08/2025;08 - Kennedy;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Hombres;INTEGRACIÓN;4;16;250
+26/08/2025;01 - Usaquén;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Hombres;INTEGRACIÓN;3;5;600
+26/08/2025;08 - Kennedy;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;INTEGRACIÓN;29;47;617
+26/08/2025;14 - Los Mártires;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Mujeres;INTEGRACIÓN;2;9;222
+26/08/2025;19 - Ciudad Bolívar;tercera dosis de pentavalente (6 a 11 meses);INTEGRACIÓN;135;144;938
+26/08/2025;04 - San Cristóbal;tercera dosis de pentavalente (6 a 11 meses);INTEGRACIÓN;58;61;951
+26/08/2025;10 - Engativá;Triple viral (1 año de edad);INTEGRACIÓN;277;318;871
+26/08/2025;09 - Fontibón;Triple viral (1 año de edad);INTEGRACIÓN;210;236;890
+26/08/2025;03 - Santa Fe;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);INTEGRACIÓN;18;48;375
+26/08/2025;20 - Sumapaz;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);INTEGRACIÓN;2;4;500
+26/08/2025;04 - San Cristóbal;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);INTEGRACIÓN;14;29;483
+26/08/2025;09 - Fontibón;Sarampión - Rubéola (de 4  a 14 años de edad);INTEGRACIÓN;55;383;144
+26/08/2025;07 - Bosa;Sarampión - Rubéola (de 4  a 14 años de edad);INTEGRACIÓN;394;1632;241
+26/08/2025;04 - San Cristóbal;Sarampión - Rubéola (de 4  a 14 años de edad);INTEGRACIÓN;183;579;316
+26/08/2025;11 - Suba;Sarampión - Rubéola (de 4  a 14 años de edad);INTEGRACIÓN;236;1019;232
+26/08/2025;15 - Antonio Nariño;Sarampión - Rubéola (de 4  a 14 años de edad);INTEGRACIÓN;13;71;183
+26/08/2025;03 - Santa Fe;Sarampión - Rubéola (de 4  a 14 años de edad);INTEGRACIÓN;107;342;313
+26/08/2025;17 - La Candelaria;Sarampión - Rubéola (de 4  a 14 años de edad);INTEGRACIÓN;47;90;522
+26/08/2025;08 - Kennedy;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);INTEGRACIÓN;562;5641;100
+26/08/2025;06 - Tunjuelito;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);INTEGRACIÓN;136;1534;89
+26/08/2025;05 - Usme;Triple viral refuerzo (desde 18 meses a 4 años de edad);INTEGRACIÓN;3719;4271;871
+26/08/2025;11 - Suba;Triple viral refuerzo (desde 18 meses a 4 años de edad);INTEGRACIÓN;3922;4888;802
+26/08/2025;10 - Engativá;Triple viral refuerzo (desde 18 meses a 4 años de edad);INTEGRACIÓN;1855;2241;828
+26/08/2025;09 - Fontibón;Triple viral refuerzo (desde 18 meses a 4 años de edad);INTEGRACIÓN;1277;1535;832
+26/08/2025;02 - Chapinero;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Hombres;INTEGRACIÓN;2;13;154
+26/08/2025;03 - Santa Fe;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Hombres;INTEGRACIÓN;3;13;231
+26/08/2025;17 - La Candelaria;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);INTEGRACIÓN;61;104;587
+26/08/2025;07 - Bosa;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);INTEGRACIÓN;5443;7360;740
+26/08/2025;10 - Engativá;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);INTEGRACIÓN;1959;2508;781
+26/08/2025;17 - La Candelaria;Triple viral refuerzo (desde 18 meses a 4 años de edad);COLEGIOS OFICIALES;15;25;600
+26/08/2025;20 - Sumapaz;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;COLEGIOS OFICIALES;151;202;748
+26/08/2025;03 - Santa Fe;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);COLEGIOS OFICIALES;4992;7600;657
+26/08/2025;04 - San Cristóbal;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);COLEGIOS OFICIALES;32077;42979;746
+26/08/2025;04 - San Cristóbal;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);COLEGIOS OFICIALES;1484;1981;749
+26/08/2025;20 - Sumapaz;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Mujeres;COLEGIOS OFICIALES;9;21;429
+26/08/2025;09 - Fontibón;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;COLEGIOS OFICIALES;3875;6747;574
+26/08/2025;12 - Barrios Unidos;Sarampión - Rubéola (de 4  a 14 años de edad);COLEGIOS OFICIALES;3851;6944;555
+26/08/2025;17 - La Candelaria;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);COLEGIOS OFICIALES;1015;1975;514
+26/08/2025;11 - Suba;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Hombres;COLEGIOS OFICIALES;6220;21729;286
+26/08/2025;16 - Puente Aranda;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Hombres;COLEGIOS OFICIALES;1442;5077;284
+26/08/2025;11 - Suba;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Mujeres;COLEGIOS OFICIALES;869;2750;316
+26/08/2025;14 - Los Mártires;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;COLEGIOS OFICIALES;1608;2736;588
+26/08/2025;09 - Fontibón;Sarampión - Rubéola (de 4  a 14 años de edad);COLEGIOS OFICIALES;9916;16923;586
+26/08/2025;14 - Los Mártires;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);COLEGIOS OFICIALES;3651;8024;455
+26/08/2025;18 - Rafael Uribe Uribe;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Hombres;COLEGIOS OFICIALES;4958;13328;372
+26/08/2025;17 - La Candelaria;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Hombres;COLEGIOS OFICIALES;243;714;340
+26/08/2025;07 - Bosa;Influenza;INTERACIÓN VEJÉZ;719;1818;395
+26/08/2025;08 - Kennedy;Influenza;INTERACIÓN VEJÉZ;263;880;299
+26/08/2025;18 - Rafael Uribe Uribe;Influenza;INTERACIÓN VEJÉZ;281;792;355
+26/08/2025;06 - Tunjuelito;Influenza;INTERACIÓN VEJÉZ;117;305;384
+26/08/2025;19 - Ciudad Bolívar;Influenza;INTERACIÓN VEJÉZ;1237;3383;366
+26/08/2025;05 - Usme;Influenza;INTERACIÓN VEJÉZ;690;1987;347
+26/08/2025;11 - Suba;Influenza;INTERACIÓN VEJÉZ;119;457;260
+26/08/2025;01 - Usaquén;Influenza;INTERACIÓN VEJÉZ;100;356;281
+26/08/2025;04 - San Cristóbal;Influenza;INTERACIÓN VEJÉZ;364;868;419
+26/08/2025;15 - Antonio Nariño;Influenza;INTERACIÓN VEJÉZ;124;429;289
+26/08/2025;17 - La Candelaria;Influenza;INTERACIÓN VEJÉZ;14;33;424
+26/08/2025;03 - Santa Fe;Influenza;INTERACIÓN VEJÉZ;161;421;382
+26/08/2025;10 - Engativá;Influenza;INTERACIÓN VEJÉZ;503;1846;272
+26/08/2025;16 - Puente Aranda;Influenza;INTERACIÓN VEJÉZ;162;607;267
+26/08/2025;14 - Los Mártires;Influenza;INTERACIÓN VEJÉZ;265;689;385
+26/08/2025;13 - Teusaquillo;Influenza;INTERACIÓN VEJÉZ;53;246;215
+26/08/2025;09 - Fontibón;Influenza;INTERACIÓN VEJÉZ;183;544;336
+26/08/2025;12 - Barrios Unidos;Influenza;INTERACIÓN VEJÉZ;116;536;216
+26/08/2025;02 - Chapinero;Influenza;INTERACIÓN VEJÉZ;76;284;268
+26/08/2025;20 - Sumapaz;Influenza;INTERACIÓN VEJÉZ;67;213;315
+26/08/2025;NO ACTUALIZADO;Influenza;INTERACIÓN VEJÉZ;1;1;1000
+26/08/2025;07 - Bosa;COVID ADICIONAL;INTERACIÓN VEJÉZ;169;1818;93
+26/08/2025;08 - Kennedy;COVID ADICIONAL;INTERACIÓN VEJÉZ;110;880;125
+26/08/2025;18 - Rafael Uribe Uribe;COVID ADICIONAL;INTERACIÓN VEJÉZ;99;792;125
+26/08/2025;06 - Tunjuelito;COVID ADICIONAL;INTERACIÓN VEJÉZ;29;305;95
+26/08/2025;19 - Ciudad Bolívar;COVID ADICIONAL;INTERACIÓN VEJÉZ;316;3383;93
+26/08/2025;05 - Usme;COVID ADICIONAL;INTERACIÓN VEJÉZ;147;1987;74
+26/08/2025;11 - Suba;COVID ADICIONAL;INTERACIÓN VEJÉZ;47;457;103
+26/08/2025;01 - Usaquén;COVID ADICIONAL;INTERACIÓN VEJÉZ;31;356;87
+26/08/2025;04 - San Cristóbal;COVID ADICIONAL;INTERACIÓN VEJÉZ;141;868;162
+26/08/2025;15 - Antonio Nariño;COVID ADICIONAL;INTERACIÓN VEJÉZ;47;429;110
+26/08/2025;17 - La Candelaria;COVID ADICIONAL;INTERACIÓN VEJÉZ;3;33;91
+26/08/2025;03 - Santa Fe;COVID ADICIONAL;INTERACIÓN VEJÉZ;57;421;135
+26/08/2025;10 - Engativá;COVID ADICIONAL;INTERACIÓN VEJÉZ;208;1846;113
+26/08/2025;16 - Puente Aranda;COVID ADICIONAL;INTERACIÓN VEJÉZ;71;607;117
+26/08/2025;14 - Los Mártires;COVID ADICIONAL;INTERACIÓN VEJÉZ;109;689;158
+26/08/2025;13 - Teusaquillo;COVID ADICIONAL;INTERACIÓN VEJÉZ;27;246;110
+26/08/2025;09 - Fontibón;COVID ADICIONAL;INTERACIÓN VEJÉZ;67;544;123
+26/08/2025;12 - Barrios Unidos;COVID ADICIONAL;INTERACIÓN VEJÉZ;56;536;104
+26/08/2025;02 - Chapinero;COVID ADICIONAL;INTERACIÓN VEJÉZ;29;284;102
+26/08/2025;20 - Sumapaz;COVID ADICIONAL;INTERACIÓN VEJÉZ;3;213;14
+26/08/2025;NO ACTUALIZADO;COVID ADICIONAL;INTERACIÓN VEJÉZ;1;1;1000
+26/08/2025;07 - Bosa;Neumococo 23;INTERACIÓN VEJÉZ;1413;1818;777
+26/08/2025;08 - Kennedy;Neumococo 23;INTERACIÓN VEJÉZ;618;880;702
+26/08/2025;18 - Rafael Uribe Uribe;Neumococo 23;INTERACIÓN VEJÉZ;589;792;744
+26/08/2025;06 - Tunjuelito;Neumococo 23;INTERACIÓN VEJÉZ;233;305;764
+26/08/2025;19 - Ciudad Bolívar;Neumococo 23;INTERACIÓN VEJÉZ;2471;3383;730
+26/08/2025;05 - Usme;Neumococo 23;INTERACIÓN VEJÉZ;1487;1987;748
+26/08/2025;11 - Suba;Neumococo 23;INTERACIÓN VEJÉZ;292;457;639
+26/08/2025;01 - Usaquén;Neumococo 23;INTERACIÓN VEJÉZ;231;356;649
+26/08/2025;04 - San Cristóbal;Neumococo 23;INTERACIÓN VEJÉZ;588;868;677
+26/08/2025;15 - Antonio Nariño;Neumococo 23;INTERACIÓN VEJÉZ;270;429;629
+26/08/2025;17 - La Candelaria;Neumococo 23;INTERACIÓN VEJÉZ;23;33;697
+26/08/2025;03 - Santa Fe;Neumococo 23;INTERACIÓN VEJÉZ;285;421;677
+26/08/2025;10 - Engativá;Neumococo 23;INTERACIÓN VEJÉZ;1262;1846;684
+26/08/2025;16 - Puente Aranda;Neumococo 23;INTERACIÓN VEJÉZ;407;607;671
+26/08/2025;14 - Los Mártires;Neumococo 23;INTERACIÓN VEJÉZ;448;689;650
+26/08/2025;13 - Teusaquillo;Neumococo 23;INTERACIÓN VEJÉZ;134;246;545
+26/08/2025;09 - Fontibón;Neumococo 23;INTERACIÓN VEJÉZ;379;544;697
+26/08/2025;12 - Barrios Unidos;Neumococo 23;INTERACIÓN VEJÉZ;337;536;629
+26/08/2025;02 - Chapinero;Neumococo 23;INTERACIÓN VEJÉZ;159;284;560
+26/08/2025;20 - Sumapaz;Neumococo 23;INTERACIÓN VEJÉZ;155;213;728
+26/08/2025;NO ACTUALIZADO;Neumococo 23;INTERACIÓN VEJÉZ;1;1;1000
+26/08/2025;16 - Puente Aranda;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Hombres;COLEGIOS PRIVADOS;1413;5022;281
+26/08/2025;05 - Usme;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Hombres;COLEGIOS PRIVADOS;802;2199;365
+26/08/2025;02 - Chapinero;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Mujeres;COLEGIOS PRIVADOS;35;329;106
+26/08/2025;12 - Barrios Unidos;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);COLEGIOS PRIVADOS;4396;6055;726
+26/08/2025;02 - Chapinero;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);COLEGIOS PRIVADOS;4251;8779;484
+26/08/2025;05 - Usme;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);COLEGIOS PRIVADOS;3741;7238;517
+26/08/2025;08 - Kennedy;Sarampión - Rubéola (de 4  a 14 años de edad);COLEGIOS PRIVADOS;23421;34008;689
+26/08/2025;16 - Puente Aranda;Sarampión - Rubéola (de 4  a 14 años de edad);COLEGIOS PRIVADOS;9534;13371;713
+26/08/2025;16 - Puente Aranda;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);COLEGIOS PRIVADOS;11237;16785;669
+26/08/2025;08 - Kennedy;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;ICBF;6;14;429
+26/08/2025;19 - Ciudad Bolívar;Triple viral (1 año de edad);ICBF;2592;2975;871
+26/08/2025;06 - Tunjuelito;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);ICBF;49;62;790
+26/08/2025;12 - Barrios Unidos;Sarampión - Rubéola (de 4  a 14 años de edad);ICBF;251;608;413
+26/08/2025;10 - Engativá;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);ICBF;5657;7648;740
+26/08/2025;19 - Ciudad Bolívar;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);ICBF;577;13921;41
+26/08/2025;03 - Santa Fe;Triple viral refuerzo (desde 18 meses a 4 años de edad);ICBF;1318;1592;828
+26/08/2025;11 - Suba;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);ICBF;1224;7848;156
+26/08/2025;12 - Barrios Unidos;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);ICBF;254;1840;138
+26/08/2025;11 - Suba;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Hombres;ICBF;5;22;227
+26/08/2025;16 - Puente Aranda;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;ICBF;11;16;688
+26/08/2025;14 - Los Mártires;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;ICBF;4;9;444
+26/08/2025;08 - Kennedy;Triple viral (1 año de edad);ICBF;1115;1276;874
+26/08/2025;14 - Los Mártires;tercera dosis de pentavalente (6 a 11 meses);ICBF;220;266;827
+26/08/2025;08 - Kennedy;tercera dosis de pentavalente (6 a 11 meses);ICBF;442;514;860
+26/08/2025;21 - Localidad Desconocida;tercera dosis de pentavalente (6 a 11 meses);ICBF;0;1;0
+26/08/2025;05 - Usme;Sarampión - Rubéola (de 4  a 14 años de edad);ICBF;543;1225;443
+26/08/2025;11 - Suba;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);ICBF;464;7848;59
+26/08/2025;08 - Kennedy;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);ICBF;372;10633;35
+26/08/2025;06 - Tunjuelito;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);ICBF;133;2266;59
+26/08/2025;10 - Engativá;Triple viral refuerzo (desde 18 meses a 4 años de edad);ICBF;4826;5822;829
+26/08/2025;04 - San Cristóbal;Triple viral refuerzo (desde 18 meses a 4 años de edad);ICBF;3613;4168;867
+26/08/2025;04 - San Cristóbal;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);ICBF;786;5466;144
+26/08/2025;02 - Chapinero;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);ICBF;2;9;222
+26/08/2025;16 - Puente Aranda;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Hombres;ICBF;77;162;475
+26/08/2025;06 - Tunjuelito;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Hombres;ICBF;29;62;468
+26/08/2025;13 - Teusaquillo;Triple viral refuerzo (desde 18 meses a 4 años de edad);ICBF;2;2;1000
+26/08/2025;06 - Tunjuelito;Triple viral refuerzo (desde 18 meses a 4 años de edad);COLEGIOS OFICIALES;688;922;746
+26/08/2025;13 - Teusaquillo;Triple viral refuerzo (desde 18 meses a 4 años de edad);COLEGIOS OFICIALES;33;48;688
+26/08/2025;06 - Tunjuelito;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);COLEGIOS OFICIALES;955;1257;760
+26/08/2025;03 - Santa Fe;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Mujeres;COLEGIOS OFICIALES;91;296;307
+26/08/2025;03 - Santa Fe;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);COLEGIOS OFICIALES;2442;7193;339
+26/08/2025;08 - Kennedy;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);COLEGIOS OFICIALES;65001;96914;671
+26/08/2025;07 - Bosa;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);COLEGIOS OFICIALES;3477;5367;648
+26/08/2025;20 - Sumapaz;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);COLEGIOS OFICIALES;481;734;655
+26/08/2025;15 - Antonio Nariño;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Hombres;COLEGIOS OFICIALES;872;2552;342
+26/08/2025;04 - San Cristóbal;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Hombres;COLEGIOS OFICIALES;5106;13086;390
+26/08/2025;02 - Chapinero;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Hombres;COLEGIOS OFICIALES;33;152;217
+26/08/2025;02 - Chapinero;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;COLEGIOS OFICIALES;406;783;519
+26/08/2025;02 - Chapinero;Sarampión - Rubéola (de 4  a 14 años de edad);COLEGIOS OFICIALES;1116;2250;496
+26/08/2025;10 - Engativá;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Hombres;INTEGRACIÓN;0;3;0
+26/08/2025;11 - Suba;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;INTEGRACIÓN;4;11;364
+26/08/2025;14 - Los Mártires;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;INTEGRACIÓN;16;35;457
+26/08/2025;09 - Fontibón;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;INTEGRACIÓN;3;10;300
+26/08/2025;03 - Santa Fe;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;INTEGRACIÓN;9;15;600
+26/08/2025;07 - Bosa;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Mujeres;INTEGRACIÓN;1;5;200
+26/08/2025;19 - Ciudad Bolívar;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Mujeres;INTEGRACIÓN;1;4;250
+26/08/2025;10 - Engativá;tercera dosis de pentavalente (6 a 11 meses);INTEGRACIÓN;33;38;868
+26/08/2025;08 - Kennedy;tercera dosis de pentavalente (6 a 11 meses);INTEGRACIÓN;142;153;928
+26/08/2025;06 - Tunjuelito;tercera dosis de pentavalente (6 a 11 meses);INTEGRACIÓN;37;38;974
+26/08/2025;02 - Chapinero;tercera dosis de pentavalente (6 a 11 meses);INTEGRACIÓN;15;16;938
+26/08/2025;05 - Usme;tercera dosis de pentavalente (6 a 11 meses);INTEGRACIÓN;98;104;942
+26/08/2025;11 - Suba;Triple viral (1 año de edad);INTEGRACIÓN;637;741;860
+26/08/2025;06 - Tunjuelito;Triple viral (1 año de edad);INTEGRACIÓN;252;275;916
+26/08/2025;12 - Barrios Unidos;Triple viral (1 año de edad);INTEGRACIÓN;123;146;842
+26/08/2025;07 - Bosa;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);INTEGRACIÓN;138;261;529
+26/08/2025;12 - Barrios Unidos;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);INTEGRACIÓN;5;7;714
+26/08/2025;05 - Usme;Sarampión - Rubéola (de 4  a 14 años de edad);INTEGRACIÓN;445;1066;417
+26/08/2025;02 - Chapinero;Sarampión - Rubéola (de 4  a 14 años de edad);INTEGRACIÓN;69;206;335
+26/08/2025;05 - Usme;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);INTEGRACIÓN;603;4861;124
+26/08/2025;15 - Antonio Nariño;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);INTEGRACIÓN;65;458;142
+26/08/2025;16 - Puente Aranda;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);INTEGRACIÓN;118;1081;109
+26/08/2025;14 - Los Mártires;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);INTEGRACIÓN;146;1336;109
+26/08/2025;02 - Chapinero;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);INTEGRACIÓN;96;633;152
+26/08/2025;04 - San Cristóbal;Triple viral refuerzo (desde 18 meses a 4 años de edad);INTEGRACIÓN;2263;2573;880
+26/08/2025;02 - Chapinero;Triple viral refuerzo (desde 18 meses a 4 años de edad);INTEGRACIÓN;361;482;749
+26/08/2025;15 - Antonio Nariño;Triple viral refuerzo (desde 18 meses a 4 años de edad);INTEGRACIÓN;352;412;854
+26/08/2025;04 - San Cristóbal;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);INTEGRACIÓN;155;2902;53
+26/08/2025;05 - Usme;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Hombres;INTEGRACIÓN;12;24;500
+26/08/2025;16 - Puente Aranda;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);INTEGRACIÓN;842;1080;780
+26/08/2025;01 - Usaquén;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);INTEGRACIÓN;1623;2160;751
+26/08/2025;02 - Chapinero;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);INTEGRACIÓN;434;643;675
+26/08/2025;13 - Teusaquillo;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);INTEGRACIÓN;47;65;723
+26/08/2025;04 - San Cristóbal;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Hombres;COLEGIOS OFICIALES;583;1696;344
+26/08/2025;08 - Kennedy;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);COLEGIOS OFICIALES;2842;4502;631
+26/08/2025;20 - Sumapaz;Triple viral refuerzo (desde 18 meses a 4 años de edad);COLEGIOS OFICIALES;15;25;600
+26/08/2025;08 - Kennedy;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Mujeres;COLEGIOS OFICIALES;1011;3597;281
+26/08/2025;04 - San Cristóbal;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;COLEGIOS OFICIALES;8699;12468;698
+26/08/2025;03 - Santa Fe;Sarampión - Rubéola (de 4  a 14 años de edad);COLEGIOS OFICIALES;3174;5613;565
+26/08/2025;08 - Kennedy;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);COLEGIOS OFICIALES;50796;93286;545
+26/08/2025;01 - Usaquén;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);COLEGIOS OFICIALES;12000;21997;546
+26/08/2025;07 - Bosa;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Hombres;INTEGRACIÓN;2;7;286
+26/08/2025;04 - San Cristóbal;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Hombres;INTEGRACIÓN;4;7;571
+26/08/2025;02 - Chapinero;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Hombres;INTEGRACIÓN;0;5;0
+26/08/2025;19 - Ciudad Bolívar;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;INTEGRACIÓN;16;21;762
+26/08/2025;17 - La Candelaria;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;INTEGRACIÓN;9;15;600
+26/08/2025;18 - Rafael Uribe Uribe;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;INTEGRACIÓN;2;4;500
+26/08/2025;20 - Sumapaz;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;INTEGRACIÓN;1;1;1000
+26/08/2025;12 - Barrios Unidos;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;INTEGRACIÓN;1;1;1000
+26/08/2025;09 - Fontibón;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Mujeres;INTEGRACIÓN;2;3;667
+26/08/2025;01 - Usaquén;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Mujeres;INTEGRACIÓN;1;5;200
+26/08/2025;16 - Puente Aranda;tercera dosis de pentavalente (6 a 11 meses);INTEGRACIÓN;16;16;1000
+26/08/2025;15 - Antonio Nariño;tercera dosis de pentavalente (6 a 11 meses);INTEGRACIÓN;5;10;500
+26/08/2025;14 - Los Mártires;tercera dosis de pentavalente (6 a 11 meses);INTEGRACIÓN;22;23;957
+26/08/2025;16 - Puente Aranda;Triple viral (1 año de edad);INTEGRACIÓN;135;154;877
+26/08/2025;14 - Los Mártires;Triple viral (1 año de edad);INTEGRACIÓN;144;174;828
+26/08/2025;08 - Kennedy;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);INTEGRACIÓN;97;151;642
+26/08/2025;14 - Los Mártires;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);INTEGRACIÓN;21;45;467
+26/08/2025;10 - Engativá;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);INTEGRACIÓN;6;15;400
+26/08/2025;17 - La Candelaria;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);INTEGRACIÓN;0;6;0
+26/08/2025;06 - Tunjuelito;Sarampión - Rubéola (de 4  a 14 años de edad);INTEGRACIÓN;30;169;178
+26/08/2025;12 - Barrios Unidos;Sarampión - Rubéola (de 4  a 14 años de edad);INTEGRACIÓN;23;154;149
+26/08/2025;19 - Ciudad Bolívar;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);INTEGRACIÓN;844;6012;140
+26/08/2025;20 - Sumapaz;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);INTEGRACIÓN;3;96;31
+26/08/2025;11 - Suba;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);INTEGRACIÓN;778;5403;144
+26/08/2025;09 - Fontibón;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);INTEGRACIÓN;199;1762;113
+26/08/2025;12 - Barrios Unidos;Triple viral refuerzo (desde 18 meses a 4 años de edad);INTEGRACIÓN;594;751;791
+26/08/2025;18 - Rafael Uribe Uribe;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);INTEGRACIÓN;124;2885;43
+26/08/2025;12 - Barrios Unidos;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);INTEGRACIÓN;29;834;35
+26/08/2025;07 - Bosa;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Hombres;INTEGRACIÓN;11;32;344
+26/08/2025;20 - Sumapaz;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);INTEGRACIÓN;64;97;660
+26/08/2025;06 - Tunjuelito;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);INTEGRACIÓN;1258;1539;817
+26/08/2025;12 - Barrios Unidos;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);INTEGRACIÓN;622;834;746
+26/08/2025;17 - La Candelaria;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Hombres;COLEGIOS OFICIALES;18;77;234
+26/08/2025;01 - Usaquén;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);COLEGIOS OFICIALES;702;1061;662
+26/08/2025;07 - Bosa;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Mujeres;COLEGIOS OFICIALES;1124;3844;292
+26/08/2025;05 - Usme;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;COLEGIOS OFICIALES;12596;18243;690
+26/08/2025;17 - La Candelaria;Sarampión - Rubéola (de 4  a 14 años de edad);COLEGIOS OFICIALES;762;1419;537
+26/08/2025;07 - Bosa;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);COLEGIOS OFICIALES;37953;99432;382
+26/08/2025;11 - Suba;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);COLEGIOS OFICIALES;48576;72234;672
+26/08/2025;18 - Rafael Uribe Uribe;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);COLEGIOS OFICIALES;34605;46300;747
+26/08/2025;06 - Tunjuelito;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Hombres;COLEGIOS OFICIALES;3689;8903;414
+26/08/2025;11 - Suba;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;COLEGIOS OFICIALES;12083;21481;562
+26/08/2025;17 - La Candelaria;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;COLEGIOS OFICIALES;387;672;576
+26/08/2025;13 - Teusaquillo;Sarampión - Rubéola (de 4  a 14 años de edad);COLEGIOS OFICIALES;1035;1814;571
+26/08/2025;14 - Los Mártires;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Hombres;INTEGRACIÓN;3;9;333
+26/08/2025;03 - Santa Fe;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Hombres;INTEGRACIÓN;2;6;333
+26/08/2025;08 - Kennedy;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Mujeres;INTEGRACIÓN;6;11;545
+26/08/2025;04 - San Cristóbal;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Mujeres;INTEGRACIÓN;0;2;0
+26/08/2025;03 - Santa Fe;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Mujeres;INTEGRACIÓN;1;2;500
+26/08/2025;07 - Bosa;tercera dosis de pentavalente (6 a 11 meses);INTEGRACIÓN;131;147;891
+26/08/2025;13 - Teusaquillo;tercera dosis de pentavalente (6 a 11 meses);INTEGRACIÓN;2;2;1000
+26/08/2025;07 - Bosa;Triple viral (1 año de edad);INTEGRACIÓN;890;1045;852
+26/08/2025;19 - Ciudad Bolívar;Triple viral (1 año de edad);INTEGRACIÓN;745;834;893
+26/08/2025;03 - Santa Fe;Triple viral (1 año de edad);INTEGRACIÓN;220;262;840
+26/08/2025;02 - Chapinero;Triple viral (1 año de edad);INTEGRACIÓN;81;97;835
+26/08/2025;20 - Sumapaz;Triple viral (1 año de edad);INTEGRACIÓN;14;19;737
+26/08/2025;16 - Puente Aranda;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);INTEGRACIÓN;3;6;500
+26/08/2025;01 - Usaquén;Sarampión - Rubéola (de 4  a 14 años de edad);INTEGRACIÓN;235;591;398
+26/08/2025;19 - Ciudad Bolívar;Sarampión - Rubéola (de 4  a 14 años de edad);INTEGRACIÓN;563;1409;400
+26/08/2025;12 - Barrios Unidos;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);INTEGRACIÓN;96;834;115
+26/08/2025;06 - Tunjuelito;Triple viral refuerzo (desde 18 meses a 4 años de edad);INTEGRACIÓN;1211;1398;866
+26/08/2025;03 - Santa Fe;Triple viral refuerzo (desde 18 meses a 4 años de edad);INTEGRACIÓN;954;1190;802
+26/08/2025;01 - Usaquén;Triple viral refuerzo (desde 18 meses a 4 años de edad);INTEGRACIÓN;1409;1746;807
+26/08/2025;05 - Usme;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);INTEGRACIÓN;206;4861;42
+26/08/2025;13 - Teusaquillo;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);INTEGRACIÓN;4;66;61
+26/08/2025;14 - Los Mártires;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);INTEGRACIÓN;48;1336;36
+26/08/2025;10 - Engativá;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Hombres;INTEGRACIÓN;15;21;714
+26/08/2025;11 - Suba;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Hombres;INTEGRACIÓN;4;5;800
+26/08/2025;08 - Kennedy;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);INTEGRACIÓN;4324;5731;754
+26/08/2025;05 - Usme;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);INTEGRACIÓN;4054;4921;824
+26/08/2025;15 - Antonio Nariño;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);INTEGRACIÓN;364;459;793
+26/08/2025;14 - Los Mártires;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);INTEGRACIÓN;840;1317;638
+26/08/2025;01 - Usaquén;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Hombres;COLEGIOS OFICIALES;204;867;235
+26/08/2025;10 - Engativá;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;COLEGIOS OFICIALES;10405;17283;602
+26/08/2025;03 - Santa Fe;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);COLEGIOS OFICIALES;3521;7193;490
+26/08/2025;12 - Barrios Unidos;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);COLEGIOS OFICIALES;3666;9176;400
+26/08/2025;15 - Antonio Nariño;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);COLEGIOS OFICIALES;4259;7759;549
+26/08/2025;20 - Sumapaz;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);COLEGIOS OFICIALES;365;679;538
+26/08/2025;08 - Kennedy;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Hombres;COLEGIOS OFICIALES;8446;29838;283
+26/08/2025;19 - Ciudad Bolívar;Triple viral refuerzo (desde 18 meses a 4 años de edad);COLEGIOS OFICIALES;1936;2483;780
+26/08/2025;08 - Kennedy;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Hombres;COLEGIOS OFICIALES;749;3874;193
+26/08/2025;06 - Tunjuelito;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;COLEGIOS OFICIALES;5709;8373;682
+26/08/2025;15 - Antonio Nariño;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);COLEGIOS OFICIALES;3120;7759;402
+26/08/2025;09 - Fontibón;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Hombres;COLEGIOS OFICIALES;2114;7053;300
+26/08/2025;14 - Los Mártires;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Hombres;COLEGIOS OFICIALES;693;2261;307
+26/08/2025;11 - Suba;Triple viral refuerzo (desde 18 meses a 4 años de edad);COLEGIOS OFICIALES;1695;2398;707
+26/08/2025;19 - Ciudad Bolívar;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;COLEGIOS OFICIALES;18049;26962;669
+26/08/2025;06 - Tunjuelito;Sarampión - Rubéola (de 4  a 14 años de edad);COLEGIOS OFICIALES;13080;20332;643
+26/08/2025;19 - Ciudad Bolívar;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Mujeres;COLEGIOS OFICIALES;1339;3503;382
+26/08/2025;18 - Rafael Uribe Uribe;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;COLEGIOS OFICIALES;9773;14497;674
+26/08/2025;16 - Puente Aranda;Triple viral refuerzo (desde 18 meses a 4 años de edad);COLEGIOS OFICIALES;460;634;726
+26/08/2025;03 - Santa Fe;Triple viral refuerzo (desde 18 meses a 4 años de edad);COLEGIOS OFICIALES;228;292;781
+26/08/2025;15 - Antonio Nariño;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Hombres;COLEGIOS OFICIALES;94;316;297
+26/08/2025;06 - Tunjuelito;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Mujeres;COLEGIOS OFICIALES;385;996;387
+26/08/2025;17 - La Candelaria;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Mujeres;COLEGIOS OFICIALES;22;66;333
+26/08/2025;13 - Teusaquillo;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;COLEGIOS OFICIALES;471;833;565
+26/08/2025;06 - Tunjuelito;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);COLEGIOS OFICIALES;11210;26697;420
+26/08/2025;19 - Ciudad Bolívar;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Hombres;COLEGIOS OFICIALES;1128;3691;306
+26/08/2025;02 - Chapinero;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);COLEGIOS OFICIALES;74;158;468
+26/08/2025;16 - Puente Aranda;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);COLEGIOS OFICIALES;9180;16409;559
+26/08/2025;13 - Teusaquillo;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);COLEGIOS OFICIALES;995;2440;408
+26/08/2025;17 - La Candelaria;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);COLEGIOS OFICIALES;649;1975;329
+26/08/2025;17 - La Candelaria;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);COLEGIOS OFICIALES;1315;2185;602
+26/08/2025;13 - Teusaquillo;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Hombres;COLEGIOS OFICIALES;25;101;248
+26/08/2025;16 - Puente Aranda;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);COLEGIOS OFICIALES;11989;16848;712
+26/08/2025;07 - Bosa;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Hombres;COLEGIOS OFICIALES;869;4146;210
+26/08/2025;11 - Suba;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);COLEGIOS OFICIALES;2381;3712;641
+26/08/2025;05 - Usme;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);COLEGIOS OFICIALES;2361;2969;795
+26/08/2025;05 - Usme;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Hombres;INTEGRACIÓN;2;7;286
+26/08/2025;19 - Ciudad Bolívar;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Hombres;INTEGRACIÓN;4;6;667
+26/08/2025;07 - Bosa;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;INTEGRACIÓN;23;36;639
+26/08/2025;10 - Engativá;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;INTEGRACIÓN;8;11;727
+26/08/2025;17 - La Candelaria;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Mujeres;INTEGRACIÓN;0;5;0
+26/08/2025;18 - Rafael Uribe Uribe;tercera dosis de pentavalente (6 a 11 meses);INTEGRACIÓN;67;69;971
+26/08/2025;20 - Sumapaz;tercera dosis de pentavalente (6 a 11 meses);INTEGRACIÓN;8;8;1000
+26/08/2025;19 - Ciudad Bolívar;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);INTEGRACIÓN;158;234;675
+26/08/2025;09 - Fontibón;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);INTEGRACIÓN;11;23;478
+26/08/2025;01 - Usaquén;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);INTEGRACIÓN;57;120;475
+26/08/2025;15 - Antonio Nariño;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);INTEGRACIÓN;5;5;1000
+26/08/2025;18 - Rafael Uribe Uribe;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);INTEGRACIÓN;25;38;658
+26/08/2025;10 - Engativá;Sarampión - Rubéola (de 4  a 14 años de edad);INTEGRACIÓN;97;482;201
+26/08/2025;18 - Rafael Uribe Uribe;Sarampión - Rubéola (de 4  a 14 años de edad);INTEGRACIÓN;141;509;277
+26/08/2025;04 - San Cristóbal;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);INTEGRACIÓN;406;2902;140
+26/08/2025;01 - Usaquén;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);INTEGRACIÓN;345;2129;162
+26/08/2025;13 - Teusaquillo;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);INTEGRACIÓN;9;66;136
+26/08/2025;07 - Bosa;Triple viral refuerzo (desde 18 meses a 4 años de edad);INTEGRACIÓN;4914;6260;785
+26/08/2025;19 - Ciudad Bolívar;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);INTEGRACIÓN;282;6012;47
+26/08/2025;07 - Bosa;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);INTEGRACIÓN;230;7245;32
+26/08/2025;10 - Engativá;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);INTEGRACIÓN;107;2493;43
+26/08/2025;08 - Kennedy;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);INTEGRACIÓN;217;5641;38
+26/08/2025;16 - Puente Aranda;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);INTEGRACIÓN;37;1081;34
+26/08/2025;03 - Santa Fe;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);INTEGRACIÓN;83;1456;57
+26/08/2025;15 - Antonio Nariño;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);INTEGRACIÓN;25;458;55
+26/08/2025;14 - Los Mártires;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Hombres;INTEGRACIÓN;13;34;382
+26/08/2025;19 - Ciudad Bolívar;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Hombres;INTEGRACIÓN;20;23;870
+26/08/2025;17 - La Candelaria;Triple viral refuerzo (desde 18 meses a 4 años de edad);INTEGRACIÓN;1;2;500
+26/08/2025;04 - San Cristóbal;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);INTEGRACIÓN;2381;2943;809
+26/08/2025;03 - Santa Fe;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);INTEGRACIÓN;1034;1468;704
+26/08/2025;09 - Fontibón;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);INTEGRACIÓN;1342;1758;763
+26/08/2025;04 - San Cristóbal;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Mujeres;COLEGIOS OFICIALES;651;1545;421
+26/08/2025;03 - Santa Fe;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;COLEGIOS OFICIALES;1290;2106;613
+26/08/2025;06 - Tunjuelito;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);COLEGIOS OFICIALES;15588;26697;584
+26/08/2025;04 - San Cristóbal;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);COLEGIOS OFICIALES;17064;40306;423
+26/08/2025;14 - Los Mártires;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);COLEGIOS OFICIALES;2541;8024;317
+26/08/2025;05 - Usme;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Hombres;COLEGIOS OFICIALES;7269;19199;379
+26/08/2025;12 - Barrios Unidos;Triple viral refuerzo (desde 18 meses a 4 años de edad);COLEGIOS OFICIALES;238;313;760
+26/08/2025;03 - Santa Fe;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Hombres;COLEGIOS OFICIALES;71;297;239
+26/08/2025;13 - Teusaquillo;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Mujeres;COLEGIOS OFICIALES;30;87;345
+26/08/2025;10 - Engativá;Sarampión - Rubéola (de 4  a 14 años de edad);COLEGIOS OFICIALES;24241;40738;595
+26/08/2025;01 - Usaquén;Sarampión - Rubéola (de 4  a 14 años de edad);COLEGIOS OFICIALES;9590;16921;567
+26/08/2025;10 - Engativá;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);COLEGIOS OFICIALES;23107;53570;431
+26/08/2025;05 - Usme;Triple viral refuerzo (desde 18 meses a 4 años de edad);COLEGIOS OFICIALES;1597;2042;782
+26/08/2025;19 - Ciudad Bolívar;Sarampión - Rubéola (de 4  a 14 años de edad);COLEGIOS OFICIALES;46740;69900;669
+26/08/2025;14 - Los Mártires;Triple viral refuerzo (desde 18 meses a 4 años de edad);COLEGIOS OFICIALES;266;376;707
+26/08/2025;08 - Kennedy;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;COLEGIOS OFICIALES;16816;29181;576
+26/08/2025;03 - Santa Fe;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Hombres;COLEGIOS OFICIALES;783;2222;352
+26/08/2025;17 - La Candelaria;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);COLEGIOS OFICIALES;37;51;725
+26/08/2025;05 - Usme;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);COLEGIOS OFICIALES;36439;60137;606
+26/08/2025;11 - Suba;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);COLEGIOS OFICIALES;37777;69738;542
+26/08/2025;05 - Usme;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Mujeres;COLEGIOS OFICIALES;844;2296;368
+26/08/2025;09 - Fontibón;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);COLEGIOS OFICIALES;11860;22038;538
+26/08/2025;07 - Bosa;Triple viral refuerzo (desde 18 meses a 4 años de edad);COLEGIOS OFICIALES;2019;3060;660
+26/08/2025;14 - Los Mártires;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Hombres;COLEGIOS OFICIALES;74;284;261
+26/08/2025;09 - Fontibón;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);COLEGIOS OFICIALES;785;1167;673
+26/08/2025;13 - Teusaquillo;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);COLEGIOS OFICIALES;1355;2440;555
+26/08/2025;02 - Chapinero;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);COLEGIOS OFICIALES;835;2816;297
+26/08/2025;19 - Ciudad Bolívar;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Hombres;COLEGIOS OFICIALES;10207;27520;371
+26/08/2025;05 - Usme;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;INTEGRACIÓN;19;29;655
+26/08/2025;02 - Chapinero;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Mujeres;INTEGRACIÓN;0;6;0
+26/08/2025;10 - Engativá;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Mujeres;INTEGRACIÓN;4;6;667
+26/08/2025;03 - Santa Fe;tercera dosis de pentavalente (6 a 11 meses);INTEGRACIÓN;35;42;833
+26/08/2025;01 - Usaquén;tercera dosis de pentavalente (6 a 11 meses);INTEGRACIÓN;41;45;911
+26/08/2025;11 - Suba;tercera dosis de pentavalente (6 a 11 meses);INTEGRACIÓN;61;70;871
+26/08/2025;05 - Usme;Triple viral (1 año de edad);INTEGRACIÓN;618;692;893
+26/08/2025;08 - Kennedy;Triple viral (1 año de edad);INTEGRACIÓN;712;847;841
+26/08/2025;04 - San Cristóbal;Triple viral (1 año de edad);INTEGRACIÓN;453;496;913
+26/08/2025;13 - Teusaquillo;Triple viral (1 año de edad);INTEGRACIÓN;10;12;833
+26/08/2025;18 - Rafael Uribe Uribe;Triple viral (1 año de edad);INTEGRACIÓN;347;396;876
+26/08/2025;11 - Suba;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);INTEGRACIÓN;52;90;578
+26/08/2025;05 - Usme;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);INTEGRACIÓN;108;143;755
+26/08/2025;02 - Chapinero;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);INTEGRACIÓN;17;29;586
+26/08/2025;06 - Tunjuelito;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);INTEGRACIÓN;4;4;1000
+26/08/2025;14 - Los Mártires;Sarampión - Rubéola (de 4  a 14 años de edad);INTEGRACIÓN;109;418;261
+26/08/2025;16 - Puente Aranda;Sarampión - Rubéola (de 4  a 14 años de edad);INTEGRACIÓN;8;168;48
+26/08/2025;17 - La Candelaria;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);INTEGRACIÓN;35;103;340
+26/08/2025;10 - Engativá;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);INTEGRACIÓN;286;2493;115
+26/08/2025;18 - Rafael Uribe Uribe;Triple viral refuerzo (desde 18 meses a 4 años de edad);INTEGRACIÓN;2255;2602;867
+26/08/2025;14 - Los Mártires;Triple viral refuerzo (desde 18 meses a 4 años de edad);INTEGRACIÓN;731;1017;719
+26/08/2025;13 - Teusaquillo;Triple viral refuerzo (desde 18 meses a 4 años de edad);INTEGRACIÓN;45;59;763
+26/08/2025;20 - Sumapaz;Triple viral refuerzo (desde 18 meses a 4 años de edad);INTEGRACIÓN;53;68;779
+26/08/2025;11 - Suba;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);INTEGRACIÓN;269;5403;50
+26/08/2025;01 - Usaquén;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);INTEGRACIÓN;135;2129;63
+26/08/2025;02 - Chapinero;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);INTEGRACIÓN;36;633;57
+26/08/2025;17 - La Candelaria;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Hombres;INTEGRACIÓN;11;35;314
+26/08/2025;04 - San Cristóbal;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Hombres;INTEGRACIÓN;6;14;429
+26/08/2025;08 - Kennedy;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Hombres;INTEGRACIÓN;14;33;424
+26/08/2025;09 - Fontibón;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Hombres;INTEGRACIÓN;13;21;619
+26/08/2025;11 - Suba;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);INTEGRACIÓN;4197;5414;775
+26/08/2025;16 - Puente Aranda;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Hombres;COLEGIOS OFICIALES;139;661;210
+26/08/2025;08 - Kennedy;Sarampión - Rubéola (de 4  a 14 años de edad);COLEGIOS OFICIALES;41699;72295;577
+26/08/2025;02 - Chapinero;Triple viral refuerzo (desde 18 meses a 4 años de edad);COLEGIOS OFICIALES;85;118;720
+26/08/2025;02 - Chapinero;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Mujeres;COLEGIOS OFICIALES;32;108;296
+26/08/2025;11 - Suba;Sarampión - Rubéola (de 4  a 14 años de edad);COLEGIOS OFICIALES;30524;54289;562
+26/08/2025;18 - Rafael Uribe Uribe;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);COLEGIOS OFICIALES;26166;44517;588
+26/08/2025;01 - Usaquén;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);COLEGIOS OFICIALES;8882;21997;404
+26/08/2025;05 - Usme;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);COLEGIOS OFICIALES;47903;62062;772
+26/08/2025;11 - Suba;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Hombres;INTEGRACIÓN;0;4;0
+26/08/2025;01 - Usaquén;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;INTEGRACIÓN;8;15;533
+26/08/2025;04 - San Cristóbal;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;INTEGRACIÓN;18;21;857
+26/08/2025;02 - Chapinero;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;INTEGRACIÓN;5;11;455
+26/08/2025;05 - Usme;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Mujeres;INTEGRACIÓN;2;5;400
+26/08/2025;11 - Suba;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Mujeres;INTEGRACIÓN;2;3;667
+26/08/2025;12 - Barrios Unidos;tercera dosis de pentavalente (6 a 11 meses);INTEGRACIÓN;24;24;1000
+26/08/2025;09 - Fontibón;tercera dosis de pentavalente (6 a 11 meses);INTEGRACIÓN;35;39;897
+26/08/2025;15 - Antonio Nariño;Triple viral (1 año de edad);INTEGRACIÓN;46;54;852
+26/08/2025;01 - Usaquén;Triple viral (1 año de edad);INTEGRACIÓN;305;351;869
+26/08/2025;08 - Kennedy;Sarampión - Rubéola (de 4  a 14 años de edad);INTEGRACIÓN;293;1201;244
+26/08/2025;20 - Sumapaz;Sarampión - Rubéola (de 4  a 14 años de edad);INTEGRACIÓN;8;21;381
+26/08/2025;13 - Teusaquillo;Sarampión - Rubéola (de 4  a 14 años de edad);INTEGRACIÓN;0;9;0
+26/08/2025;07 - Bosa;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);INTEGRACIÓN;623;7245;86
+26/08/2025;03 - Santa Fe;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);INTEGRACIÓN;208;1456;143
+26/08/2025;18 - Rafael Uribe Uribe;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);INTEGRACIÓN;327;2885;113
+26/08/2025;08 - Kennedy;Triple viral refuerzo (desde 18 meses a 4 años de edad);INTEGRACIÓN;3945;4821;818
+26/08/2025;19 - Ciudad Bolívar;Triple viral refuerzo (desde 18 meses a 4 años de edad);INTEGRACIÓN;4352;5196;838
+26/08/2025;16 - Puente Aranda;Triple viral refuerzo (desde 18 meses a 4 años de edad);INTEGRACIÓN;820;1007;814
+26/08/2025;17 - La Candelaria;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);INTEGRACIÓN;22;103;214
+26/08/2025;06 - Tunjuelito;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);INTEGRACIÓN;48;1534;31
+26/08/2025;09 - Fontibón;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);INTEGRACIÓN;59;1762;33
+26/08/2025;20 - Sumapaz;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);INTEGRACIÓN;2;96;21
+26/08/2025;01 - Usaquén;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Hombres;INTEGRACIÓN;12;23;522
+26/08/2025;19 - Ciudad Bolívar;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);INTEGRACIÓN;4884;6182;790
+26/08/2025;18 - Rafael Uribe Uribe;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);INTEGRACIÓN;2375;2907;817
+26/08/2025;18 - Rafael Uribe Uribe;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Hombres;COLEGIOS OFICIALES;585;1729;338
+26/08/2025;11 - Suba;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Hombres;COLEGIOS OFICIALES;640;2744;233
+26/08/2025;16 - Puente Aranda;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;COLEGIOS OFICIALES;3236;5456;593
+26/08/2025;18 - Rafael Uribe Uribe;Sarampión - Rubéola (de 4  a 14 años de edad);COLEGIOS OFICIALES;22953;34457;666
+26/08/2025;20 - Sumapaz;Sarampión - Rubéola (de 4  a 14 años de edad);COLEGIOS OFICIALES;363;525;691
+26/08/2025;12 - Barrios Unidos;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);COLEGIOS OFICIALES;6280;9554;657
+26/08/2025;12 - Barrios Unidos;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Hombres;COLEGIOS OFICIALES;818;2971;275
+26/08/2025;10 - Engativá;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);COLEGIOS OFICIALES;1562;2354;664
+26/08/2025;07 - Bosa;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Hombres;COLEGIOS OFICIALES;8902;30984;287
+26/08/2025;09 - Fontibón;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Hombres;COLEGIOS OFICIALES;169;872;194
+26/08/2025;09 - Fontibón;Triple viral refuerzo (desde 18 meses a 4 años de edad);COLEGIOS OFICIALES;617;848;728
+26/08/2025;12 - Barrios Unidos;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;COLEGIOS OFICIALES;1747;2970;588
+26/08/2025;07 - Bosa;Sarampión - Rubéola (de 4  a 14 años de edad);COLEGIOS OFICIALES;46219;78140;591
+26/08/2025;10 - Engativá;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);COLEGIOS OFICIALES;30730;53570;574
+26/08/2025;09 - Fontibón;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);COLEGIOS OFICIALES;8723;22038;396
+26/08/2025;18 - Rafael Uribe Uribe;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);COLEGIOS OFICIALES;18725;44517;421
+26/08/2025;16 - Puente Aranda;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);COLEGIOS OFICIALES;6932;16409;422
+26/08/2025;20 - Sumapaz;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);COLEGIOS OFICIALES;291;679;429
+26/08/2025;06 - Tunjuelito;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);COLEGIOS OFICIALES;20341;27719;734
+26/08/2025;13 - Teusaquillo;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);COLEGIOS OFICIALES;58;88;659
+26/08/2025;15 - Antonio Nariño;Sarampión - Rubéola (de 4  a 14 años de edad);COLEGIOS OFICIALES;3714;5826;637
+26/08/2025;05 - Usme;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);COLEGIOS OFICIALES;25165;60137;418
+26/08/2025;07 - Bosa;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);COLEGIOS OFICIALES;72785;102585;710
+26/08/2025;04 - San Cristóbal;Triple viral refuerzo (desde 18 meses a 4 años de edad);COLEGIOS OFICIALES;882;1128;782
+26/08/2025;01 - Usaquén;Triple viral refuerzo (desde 18 meses a 4 años de edad);COLEGIOS OFICIALES;506;681;743
+26/08/2025;07 - Bosa;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Mujeres;COLEGIOS OFICIALES;17882;30607;584
+26/08/2025;16 - Puente Aranda;Sarampión - Rubéola (de 4  a 14 años de edad);COLEGIOS OFICIALES;7380;12438;593
+26/08/2025;04 - San Cristóbal;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);COLEGIOS OFICIALES;24453;40306;607
+26/08/2025;16 - Puente Aranda;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);COLEGIOS OFICIALES;488;752;649
+26/08/2025;15 - Antonio Nariño;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);COLEGIOS OFICIALES;298;388;768
+26/08/2025;05 - Usme;Sarampión - Rubéola (de 4  a 14 años de edad);COLEGIOS OFICIALES;33287;47177;706
+26/08/2025;12 - Barrios Unidos;Primera Dosis de COVID (Primeras dosis)-(de 6 meses a 17 años de edad);COLEGIOS OFICIALES;4963;9176;541
+26/08/2025;11 - Suba;Esquemas completos de COVID (Segundas dosis)-(de 6 meses a 17 años de edad);COLEGIOS OFICIALES;27433;69738;393
+26/08/2025;10 - Engativá;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);COLEGIOS OFICIALES;38276;55874;685
+26/08/2025;12 - Barrios Unidos;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Hombres;COLEGIOS OFICIALES;64;337;190
+26/08/2025;14 - Los Mártires;Segundo refuerzo de Difteria, tétanos y  tosferina (5 años de edad);COLEGIOS OFICIALES;241;390;618
+26/08/2025;14 - Los Mártires;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Mujeres;COLEGIOS OFICIALES;100;343;292
+26/08/2025;12 - Barrios Unidos;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Mujeres;COLEGIOS OFICIALES;112;343;327
+26/08/2025;09 - Fontibón;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Mujeres;COLEGIOS OFICIALES;257;855;301
+26/08/2025;10 - Engativá;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Hombres;COLEGIOS OFICIALES;449;2057;218
+26/08/2025;05 - Usme;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Hombres;COLEGIOS OFICIALES;779;2570;303
+26/08/2025;01 - Usaquén;Virus de Papiloma Humano primera dosis (de 10 a 17 años de edad) - Hombres;COLEGIOS OFICIALES;2160;6960;310
+26/08/2025;15 - Antonio Nariño;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Mujeres;COLEGIOS OFICIALES;80;256;313
+26/08/2025;13 - Teusaquillo;Fiebre Amarilla Única Dosis (de 1 a 59 años de edad);COLEGIOS OFICIALES;1690;2634;642
+26/08/2025;10 - Engativá;Virus de Papiloma Humano primera dosis (de 9 años de edad) - Mujeres;COLEGIOS OFICIALES;619;2087;297
